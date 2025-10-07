@@ -1,5 +1,6 @@
 # Official Python repository for TrueData (Market Data APIs)
 ----
+[![GitMCP](https://img.shields.io/endpoint?url=https://gitmcp.io/badge/OWNER/REPO)](https://gitmcp.io/OWNER/REPO)
 This Python library attempts to make it easy for you to connect to TrueData Market Data Apis, thereby allowing you to concentrate on startegy development, while this library works to get you all the data you need from the TrueData backend both for Real Time & Historical.
 
 Please make sure you follow us on our Telegram channel where we push a lot of information with regards to API updates, implementation ideas, tips & tricks to use this library & raw feed, etc...
